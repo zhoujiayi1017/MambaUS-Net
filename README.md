@@ -1,4 +1,9 @@
 # MambaUS-Net
+
+> **Notice**  
+> The manuscript describing **MambaUS-Net** is currently under peer review.  
+> Therefore, this repository is made available at the present stage exclusively for the purpose of scholarly manuscript evaluation and is intended for access by reviewers only.
+
 Official implementation of **MambaUS-Net** for ultrasound image segmentation with multi-scale and boundary-aware feature modeling.
 
 ![Overall structure of MambaUS-Net](overall-structure-mambaunet.png)
