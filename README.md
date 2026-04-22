@@ -111,5 +111,3 @@ python test.py \
 ```
 
 The predicted masks will be saved as `.png` files with the same base filenames as the input images.
-## Contact
-For questions regarding this repository, please open an issue in this repository.
