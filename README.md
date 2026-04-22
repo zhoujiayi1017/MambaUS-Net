@@ -74,6 +74,23 @@ dataset_root/
 
 For training and validation, each image file should have a corresponding mask file with the same filename.
 
+## Datasets
+The paper involves the following ultrasound datasets:
+
+- [KidneyUS-Medigit](https://github.com/zhoujiayi1017/MambaUS-Net/)
+- [KidneyUS](https://github.com/rsingla92/kidneyUS/)
+- [KUS](https://www.sciencedirect.com/science/article/abs/pii/S0169260722000980/)
+- [HC18](https://www.kaggle.com/datasets/thanhbnhphan/hc18-grand-challenge/)
+- [JNU-IFM](https://www.kaggle.com/datasets/ryanlliu/jnu-ifm-for-segment-pubic-symphysis-fetal-head/)
+- [PSFHS](https://zenodo.org/records/10969427/)
+- [CAMUS](https://www.kaggle.com/datasets/shoybhasan/camus-human-heart-data/)
+- [HMC-QU](https://www.kaggle.com/datasets/aysendegerli/hmcqu-dataset/)
+- [DDTI](https://www.kaggle.com/datasets/dasmehdixtr/ddti-thyroid-ultrasound-images/)
+- [TN3K](https://www.kaggle.com/datasets/tjahan/tn3k-thyroid-nodule-region-segmentation-dataset/)
+- [FASS](https://www.kaggle.com/datasets/orvile/fetal-abdominal-structures-segmentation-dataset/data/)
+- [MuscleUS](https://data.mendeley.com/datasets/3jykz7wz8d/1/)
+
+
 ## Training
 To train MambaUS-Net, run:
 
